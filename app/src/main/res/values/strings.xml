@@ -10,4 +10,11 @@
     <string name="main_btn_exit">Exit</string>
     <string name="about_text">Credits:\nIvan Zakharov\nIvan.zakharov.ru@yandex.ru\n</string>
     <string name="btn_to_main_menu">Back to main menu</string>
+
+    <string name="app_in_name">Minesweeper</string>
+    <string name="app_name_after">SAPER</string>
+    <string name="text_bottom">Enter into your account</string>
+
+    <string name="btn_sign_in">Sign in</string>
+    <string name="btn_sign_up">Sign up</string>
 </resources>
