@@ -15,5 +15,7 @@
 
     <color name="btn_sign_up">#fc9403</color>
     <color name="btn_sign_up_stroke">#ec03fc</color>
+    <color name="colorPrimary">@color/purple_200</color>
+    <color name="colorPrimaryDark">@color/purple_200</color>
 
 </resources>

@@ -6,6 +6,7 @@
     android:gravity="center"
     android:orientation="vertical"
     android:background="@drawable/bg"
+    android:id="@+id/root_element"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -100,7 +101,10 @@
             android:background="@drawable/btn_sign_in"
             android:fontFamily="@font/suez_one"
             android:text="@string/btn_sign_in"
-            android:textColor="@android:color/white" />
+            android:textColor="@android:color/white"
+            android:onClick="onClick"
+            />
+
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn_sign_up"
@@ -111,7 +115,9 @@
             android:background="@drawable/btn_sign_up"
             android:fontFamily="@font/suez_one"
             android:text="@string/btn_sign_up"
-            android:textColor="@android:color/white" />
+            android:textColor="@android:color/white"
+            android:onClick="onClick"
+            />
     </LinearLayout>
 
 

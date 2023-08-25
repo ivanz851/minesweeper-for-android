@@ -60,5 +60,10 @@ dependencies {
     implementation 'com.google.firebase:firebase-ml-vision-barcode-model:16.1.2'
 
     implementation 'com.google.firebase:firebase-dynamic-links:21.1.0'
+    implementation "com.android.support:cardview-v7:28.+"
+
+    implementation 'com.google.firebase:firebase-auth:18.0.0'
+    implementation 'com.google.android.gms:play-services-gcm:17.0.0'
+    implementation 'com.google.firebase:firebase-database-ktx'
 
 }
